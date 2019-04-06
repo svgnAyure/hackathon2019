@@ -1,0 +1,17 @@
+{
+  "name": "hackathon2019-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/svgnAyure/hackathon2019-server.git",
+  "author": "Kristian Stang <kristian.sta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-tag": "^2.10.1",
+    "graphql-yoga": "^1.17.4",
+    "sequelize": "^5.2.12",
+    "sqlite3": "^4.0.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
